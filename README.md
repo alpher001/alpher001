@@ -1,23 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I'm Almustafa!
 
+Welcome to my GitHub profile! I'm a beginner developer learning new things every day. Here's a little bit about me 👇
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,javascript,typescript,python,aws&perline=7" />
-  </a>
-</p>
-<!--
+---
 
-**alpher001/alpher001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Tools
 
-Here are some ideas to get you started:      
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- Add or remove badges to match your skills. Get badges at https://shields.io/ or add more logos here: https://simpleicons.org/ -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I'm Working On
+
+- Learning new languages and tools 🧑‍💻
+- Building small projects to practice coding
+- Connecting with other devs and sharing what I learn
+
+---
+
+## ✨ Fun Facts
+
+- I love pizza 🍕 and video games 🎮
+- I'm always down to chat or collaborate!
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alpher001)
+<!-- Add more social badges if you want! -->
+
+---
+
+Thanks for stopping by! 🚀
